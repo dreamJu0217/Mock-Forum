@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/AjfarAlam/Mock-Forum"><img src="https://img.shields.io/badge/GitHub-Project-blue?style=flat-square" alt="GitHub Project"></a>
-  <a href="https://github.com/AjfarAlam/Mock-Forum/stargazers"><img src="https://img.shields.io/github/stars/AjfarAlam/Mock-Forum?style=flat-square" alt="GitHub stars"></a>
-  <a href="https://github.com/AjfarAlam/Mock-Forum/network/members"><img src="https://img.shields.io/github/forks/AjfarAlam/Mock-Forum?style=flat-square" alt="GitHub forks"></a>
+  <a href="https://github.com/dreamJu0217/Mock-Forum"><img src="https://img.shields.io/badge/GitHub-Project-blue?style=flat-square" alt="GitHub Project"></a>
+  <a href="https://github.com/dreamJu0217/Mock-Forum/stargazers"><img src="https://img.shields.io/github/stars/dreamJu0217/Mock-Forum?style=flat-square" alt="GitHub stars"></a>
+  <a href="https://github.com/dreamJu0217/Mock-Forum/network/members"><img src="https://img.shields.io/github/forks/dreamJu0217/Mock-Forum?style=flat-square" alt="GitHub forks"></a>
 </p>
 
 # Mock Forum
@@ -30,7 +30,7 @@
 ## Setup Instructions
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/AjfarAlam/Mock-Forum.git
+   git clone https://github.com/dreamJu0217/Mock-Forum.git
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
